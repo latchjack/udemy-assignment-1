@@ -1,0 +1,12 @@
+.App {
+  margin: 16px;
+}
+
+.app-border {
+  margin: 10%;
+  border: 3px solid black;
+  border-radius: 5px;
+  padding: 50px;
+  background-color: bisque;
+  text-align: center;
+}
